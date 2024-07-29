@@ -15,13 +15,13 @@ download apk app : [https://www.mediafire.com/file/ci7nls8pcrj6nx9/FoodApp.apk/f
 
 # Các thư viện và công nghệ đã sử dụng:
 
-Navigation Component: Sử dụng một Activity chứa nhiều Fragment thay vì tạo nhiều Activity.
-Retrofit: Kết nối HTTP với REST API và chuyển đổi file JSON của món ăn thành đối tượng Kotlin/Java.
-Room: Lưu trữ dữ liệu món ăn trong cơ sở dữ liệu cục bộ.
-MVVM & LiveData: Tách biệt mã logic khỏi giao diện và lưu trữ trạng thái khi cấu hình màn hình thay đổi.
-Coroutines: Thực hiện các tác vụ nền.
-View Binding: Thay vì tự tay nạp các view, view binding sẽ tự động xử lý việc này.
-Glide: Tải và lưu ảnh vào ImageView.
+- Navigation Component: Sử dụng một Activity chứa nhiều Fragment thay vì tạo nhiều Activity.
+- Retrofit: Kết nối HTTP với REST API và chuyển đổi file JSON của món ăn thành đối tượng Kotlin/Java.
+- Room: Lưu trữ dữ liệu món ăn trong cơ sở dữ liệu cục bộ.
+- MVVM & LiveData: Tách biệt mã logic khỏi giao diện và lưu trữ trạng thái khi cấu hình màn hình thay đổi.
+- Coroutines: Thực hiện các tác vụ nền.
+- View Binding: Thay vì tự tay nạp các view, view binding sẽ tự động xử lý việc này.
+- Glide: Tải và lưu ảnh vào ImageView.
 
 
 
