@@ -1,8 +1,8 @@
-FoodApp
+# FoodApp
 
 FoodApp là ứng dụng giúp việc chuẩn bị thực phẩm dễ dàng hơn và cung cấp cho bạn thông tin đầy đủ về bữa ăn đã chọn bao gồm hướng dẫn về cách chuẩn bị bữa ăn đó kèm theo video và thêm vào mục yêu thích.
 
-Xem trước
+# Xem trước
 download apk app : [https://www.mediafire.com/file/ci7nls8pcrj6nx9/FoodApp.apk/file](https://www.mediafire.com/file/ci7nls8pcrj6nx9/FoodApp.apk/file)
 
 ![image](https://github.com/user-attachments/assets/48245f99-b650-4619-b79a-6a161970a0e7)
@@ -13,7 +13,7 @@ download apk app : [https://www.mediafire.com/file/ci7nls8pcrj6nx9/FoodApp.apk/f
 ![image](https://github.com/user-attachments/assets/37c319d0-7ccc-4797-8767-b8ba7debed76)
 ![image](https://github.com/user-attachments/assets/79a28067-0aaa-40b2-ab0b-90971fe785a6)
 
-Các thư viện và công nghệ đã sử dụng:
+# Các thư viện và công nghệ đã sử dụng:
 
 Navigation Component: Sử dụng một Activity chứa nhiều Fragment thay vì tạo nhiều Activity.
 Retrofit: Kết nối HTTP với REST API và chuyển đổi file JSON của món ăn thành đối tượng Kotlin/Java.
