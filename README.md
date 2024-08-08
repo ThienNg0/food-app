@@ -2,7 +2,7 @@
 
 FoodApp là ứng dụng giúp việc chuẩn bị thực phẩm dễ dàng hơn và cung cấp cho bạn thông tin đầy đủ về bữa ăn đã chọn bao gồm hướng dẫn về cách chuẩn bị bữa ăn đó kèm theo video và thêm vào mục yêu thích.
 
-# Xem trước
+# Giao diện
 download apk app : [https://www.mediafire.com/file/ci7nls8pcrj6nx9/FoodApp.apk/file](https://www.mediafire.com/file/ci7nls8pcrj6nx9/FoodApp.apk/file)
 
 ![image](https://github.com/user-attachments/assets/48245f99-b650-4619-b79a-6a161970a0e7)
